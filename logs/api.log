@@ -1,0 +1,14 @@
+12-05-2022 10:19:35.675 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 10:19:35.677 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 10:19:35.677 [Gauge] [DEBUG] Adding specs from /Users/hunarmohammad/Desktop/Test123/specs/example.spec
+12-05-2022 10:19:35.677 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 10:19:35.678 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65197
+12-05-2022 10:19:35.679 [Gauge] [DEBUG] Watching directory: /Users/hunarmohammad/Desktop/Test123/specs
+12-05-2022 10:19:35.680 [Gauge] [DEBUG] Found 1 files
+12-05-2022 10:19:40.635 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 10:19:40.636 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 10:19:40.636 [Gauge] [DEBUG] Adding specs from /Users/hunarmohammad/Desktop/Test123/specs/example.spec
+12-05-2022 10:19:40.636 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 10:19:40.636 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65222
+12-05-2022 10:19:40.637 [Gauge] [DEBUG] Watching directory: /Users/hunarmohammad/Desktop/Test123/specs
+12-05-2022 10:19:40.637 [Gauge] [DEBUG] Found 1 files
