@@ -19,6 +19,9 @@ Read more about [Specifications](http://getgauge.io/documentation/user/current/s
 hunar mohammad
 roshna ibrahim
 Hasti Hama Rashid
+Doti Hama Rashid
+
+Hi
 
 This is where the java implementation of the steps would be implemented. Since this is a Selenium based project, the java implementation would invoke Selenium APIs as required.
 
